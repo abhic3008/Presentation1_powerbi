@@ -4,4 +4,4 @@
 
 3)Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes
 
-![](C:\Users\asus\OneDrive\Pictures\Screenshots)
+![presentation_pdf](Presentation1_dashboard)
